@@ -77,9 +77,11 @@
         </Address>
       </Addresses>
     </Publisher>
+
     <RootComponents>
       <RootComponent type="300" schemaName="almlab_meineapp_6dd36" behavior="0" />
     </RootComponents>
+
     <MissingDependencies />
   </SolutionManifest>
 </ImportExportXml>
